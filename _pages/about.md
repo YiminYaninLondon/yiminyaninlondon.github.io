@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Yimin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
