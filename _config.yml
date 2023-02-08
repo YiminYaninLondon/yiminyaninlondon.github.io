@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : ""
 name                     : &name "Yimin Yan"
-description              : &description "machine learning for finance"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "data scientist in machine learning for finance"
+url                      : https://yiminyaninlondon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiminyaninlondon/yiminyaninlondon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yimin-y-4baa8320b"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
