@@ -9,6 +9,6 @@ redirect_from:
 ---
 <!-- { % include base_path %}
  -->
-Hi, I am Yimin Yan, a data scientist in machine learning for finance.
+Hi, I am Yimin Yan, a data scientist in machine learning for finance. 
 
-
+I did my master degree at University of Southampton with [Jason Hilton](https://www.southampton.ac.uk/people/5xgnrc/doctor-jason-hilton) on Data Analytics. I am currently data analyst at Stable. I work on machine learning for financial data. 
